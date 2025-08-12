@@ -1,6 +1,5 @@
-# Desafio-No.-2-TelecomX_Parte_1
-Respuesta Challenge TelecomX_Parte_1
-<h1 align="center"> # Desafio-No.-2-TelecomX_Parte_1- </h1>
+
+<h1 align="center"> Desafio No. 2 TelecomX Parte 1 - </h1>
 
 <h2 align="center"> 1. :black_nib:  El propósito del análisis realizado </h2>
 

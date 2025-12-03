@@ -55,9 +55,11 @@ Por lo anterior, es necesario estudiar y analizar como cada una de las variables
 <h2 align="center"> 6. :bust_in_silhouette: Personas Contribuyentes </h2>
 
 | [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) | 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Laura Andrea Villarraga Díaz</sub>](https://github.com/LauraAVillarragaD) |
-| <sub>Laura Andrea Villarraga Díaz</sub>](https://github.com/LauraAVillarragaD)| 
-@LauraAVillarragaD
+
+| [<img src="https://github.com/user-attachments/assets/50c3fd57-9762-460f-9240-c91f670f9a5e" width=115><br><sub>Laura Andrea Villarraga Díaz</sub>](https://github.com/LauraAVillarragaD)|
+
+
+
 
 <h2 align="center"> 7. :pray: Agradecimientos </h2>
 Alura Latam

@@ -16,11 +16,21 @@ La tasa Churn o la tasa de abandonos de clientes es la metrica que indica la pro
 
  <h2 align="center"> 3. :bulb: Ejemplos de gráficos e insights obtenidos</h2>
  
+**Gráfica circular que muestra el porcentaje de cleintes que abandonaron y no abandonaron la empresa Telecom X**
+
 <img width="463" height="425" alt="image" src="https://github.com/user-attachments/assets/d230549a-d5b7-42e0-8a83-fb6f27029ee9" />
 
+**Gráfica de barras que muestra el comportamiento de los clientes que tienen más de 65 años y los que no**
+
+<img width="921" height="525" alt="newplot" src="https://github.com/user-attachments/assets/2755eff3-14db-41c5-a686-e17c765d933f" />
+
+**Gráfica BoxPlot donde muestra los clientes que abandonan la empresa Telecom X y los que no y su tarifa mensual**
+
+<img width="921" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/b6a16d03-ad31-4c18-9300-87846358258d" />
 
 <h2 align="center"> 4. :open_file_folder: Instrucciones para ejecutar el notebook </h2>
 
+El Notebook se llama 
 
+<h2 align="center"> 5. :bust_in_silhouette: Personas Contribuyentes </h2>
 
-  <h2 align="center"> 5. :bust_in_silhouette: Personas Contribuyentes </h2>

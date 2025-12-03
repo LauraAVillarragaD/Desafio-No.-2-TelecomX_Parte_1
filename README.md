@@ -30,7 +30,31 @@ La tasa Churn o la tasa de abandonos de clientes es la metrica que indica la pro
 
 <h2 align="center"> 4. :open_file_folder: Instrucciones para ejecutar el notebook </h2>
 
-El Notebook se llama 
+El Notebook se llama Desafío_No_2_TelecomX_Parte_1_Laura_Villarraga_Diaz, y esta compuesto por las siguientes 4 secciones:
 
-<h2 align="center"> 5. :bust_in_silhouette: Personas Contribuyentes </h2>
+1. Extracción:
+En donde se adicionan los datos a la plataforma Google Colab y se guardan en un dataframe. Además, se realiza la normalización de los datos, se verifican si hay valores unicos, si hay valores nulos y si hay valores vacios en las datos. Para eso el usuario puede dar play en cada una de las celdas de la sección Extracción del notebook.
 
+2. Limpieza y transformación de los datos:
+En donde se realizan la aplicación de diferentes codigos para convertir los datos en el formato correspondiente como lo son de tipo etxot, object, numérico, entre otros. Tambien, se valida y ajusta que los datos no tengan caracteres erroneos. Para eso el usuario puede dar play en cada una de las celdas de la sección Limpieza y transformación de los datos del notebook.
+
+3. Carga y análisis:
+En esta sección se realiza el cargue de la información limpia para realizar el análisis exploratorio de los datos y realizar las gráficas pertinentes para análizar las variables de la base de datos. Para eso el usuario puede dar play en cada una de las celdas de la sección Carga y Análisis del notebook.
+   
+5. Informe Final:
+Aquí se realiza el análisis de las gráficas obtenidas y los datos de la base de datos. Además se mencionan las conclusiones y la recomendaciones. Para eso el usuario puede dar play en cada una de las celdas de la sección Informe final del notebook.
+
+<h2 align="center"> 5. :writing_hand: Conclusiones del proyecto </h2>
+
+Resume los principales hallazgos y cómo estos datos pueden ayudar a reducir la evasión.
+
+En conclusión, que la tasa de abandono o Churn de la empresa Telecom X es igual a 26.5 %, la cual es una tasa alta. De acuerdo a las gráficas obtenidas, se puede decir que las variables que pueden explicar la variable Tasa de Churn son: el servicio de internet por fibra optica, la antiguedad del cliente, tener o no el servicio de soporte técnico, la tarifa mensual de los servicios, el tipo de contrato, el método de pago, la edad de la persona, la factura en línea y si el cliente tiene un servicio adicional o no.
+
+Por lo anterior, es necesario estudiar y analizar como cada una de las variables explicativas mencionadas previamente afectan el comportamiento de la tasa de Churn (variable respuesta), para esto es necesario ayudarnos de los datos que tenemos, las métricas estadísticas para entender la correlación que puede haber entre las variables explicativas y la relación que pueden tener las variables explicativas con la variable respuesta. Y la creación de modelos predictivos que se ajusten al comportamiento de los datos historicos reportados.
+
+<h2 align="center"> 6. :bust_in_silhouette: Personas Contribuyentes </h2>
+
+@LauraAVillarragaD
+
+<h2 align="center"> 7. :pray: Agradecimientos </h2>
+Alura Latam
